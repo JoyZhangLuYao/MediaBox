@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.zly.zly.mediabox.MyView.ClearEditText
+        android:id="@+id/clearEditText1"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@mipmap/search_bg"
+        android:drawableLeft="@mipmap/search"
+        android:hint="@string/please_enter_the_keywords"
+        android:textSize="15.0dip" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <ListView
+            android:id="@+id/music_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:cacheColorHint="@android:color/transparent"
+            android:scrollbars="none">
+
+        </ListView>
+        <TextView
+            android:visibility="gone"
+            android:id="@+id/no_files"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/no_media_files"
+            android:textColor="#828282"
+            android:layout_centerInParent="true"/>
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

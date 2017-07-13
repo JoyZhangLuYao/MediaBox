@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\radiusbottom.xml",
+        "source": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\radiusbottom.xml"
+    },
+    {
+        "merged": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\progressbar_color.xml",
+        "source": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\progressbar_color.xml"
+    },
+    {
+        "merged": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\radius_progressbar.xml",
+        "source": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\radius_progressbar.xml"
+    },
+    {
+        "merged": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\radius_progressbar_bg.xml",
+        "source": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\radius_progressbar_bg.xml"
+    }
+]

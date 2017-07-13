@@ -1,0 +1,123 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.zly.zly.mediabox.Fragment.PhotoFragment">
+
+
+    <com.zly.zly.mediabox.MyView.ClearEditText
+        android:id="@+id/clearEditText1"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@mipmap/search_bg"
+        android:drawableLeft="@mipmap/search"
+        android:hint="@string/please_enter_the_keywords"
+        android:textSize="15.0dip" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <ListView
+            android:id="@+id/photo_listview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:cacheColorHint="@android:color/transparent"
+            android:scrollbars="none">
+
+        </ListView>
+        <TextView
+            android:visibility="gone"
+            android:id="@+id/no_files"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/no_media_files"
+            android:textColor="#828282"
+            android:layout_centerInParent="true"/>
+
+
+    </RelativeLayout>
+    <!-- <View-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="0.5dp"-->
+    <!--android:background="@color/linecolor"/>-->
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="50dp"-->
+    <!--android:orientation="horizontal">-->
+    <!--<RelativeLayout-->
+    <!--android:layout_weight="1"-->
+    <!--android:layout_width="0dp"-->
+    <!--android:layout_height="match_parent">-->
+
+    <!--<Button-->
+    <!--android:id="@+id/pre_btn"-->
+    <!--android:layout_width="35dp"-->
+    <!--android:layout_height="35dp"-->
+    <!--android:gravity="center"-->
+    <!--android:background="@drawable/pre_btn"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:layout_centerHorizontal="true" />-->
+    <!--</RelativeLayout>-->
+    <!--<RelativeLayout-->
+    <!--android:layout_weight="1"-->
+    <!--android:layout_width="0dp"-->
+    <!--android:layout_height="match_parent">-->
+    <!--<Button-->
+    <!--android:id="@+id/play_pause_btn"-->
+    <!--android:layout_width="35dp"-->
+    <!--android:layout_height="35dp"-->
+    <!--android:gravity="center"-->
+    <!--android:background="@mipmap/play_on"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:layout_centerHorizontal="true" />-->
+
+    <!--</RelativeLayout>-->
+    <!--<RelativeLayout-->
+    <!--android:layout_weight="1"-->
+    <!--android:layout_width="0dp"-->
+    <!--android:layout_height="match_parent">-->
+    <!--<Button-->
+    <!--android:id="@+id/next_btn"-->
+    <!--android:layout_width="35dp"-->
+    <!--android:layout_height="35dp"-->
+    <!--android:gravity="center"-->
+    <!--android:background="@drawable/next_btn"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:layout_centerHorizontal="true" />-->
+
+
+    <!--</RelativeLayout>-->
+    <!--<RelativeLayout-->
+    <!--android:layout_weight="1"-->
+    <!--android:layout_width="0dp"-->
+    <!--android:layout_height="match_parent">-->
+
+    <!--<Button-->
+    <!--android:id="@+id/vol_btn"-->
+    <!--android:layout_width="35dp"-->
+    <!--android:layout_height="35dp"-->
+    <!--android:gravity="center"-->
+    <!--android:background="@drawable/vol_btn"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:layout_centerHorizontal="true" />-->
+
+    <!--</RelativeLayout>
+
+
+</LinearLayout>-->
+
+</LinearLayout>

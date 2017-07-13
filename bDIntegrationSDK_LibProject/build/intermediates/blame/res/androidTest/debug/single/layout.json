@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bdp_update_activity_confirm_dialog.xml",
+        "source": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\layout\\bdp_update_activity_confirm_dialog.xml"
+    },
+    {
+        "merged": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\baidupdate_layout.xml",
+        "source": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\layout\\baidupdate_layout.xml"
+    }
+]

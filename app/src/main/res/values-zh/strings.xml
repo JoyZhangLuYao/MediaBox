@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">智点音响</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nfc1">&#8195;&#8195;检测到您的手机支持NCF,可以使用手机靠近设备的NFC感应区进行设备连接。</string>
+    <string name="nfc2">&#8195;&#8195;检测到您的手机支持NCF,请先打开NFC,并使手机靠近设备的NFC感应区进行设备连接。</string>
+    <string name="hello">你好！</string>
+    <string name="loading">处理中，请稍后...</string>
+    <string name="my_collection">我的收藏</string>
+    <string name="edit">编辑</string>
+    <string name="complete">完成</string>
+    <string name="local_music">本地音乐</string>
+    <string name="memory_card">内存卡</string>
+    <string name="usb_flash_disk">U盘</string>
+    <string name="video">视频</string>
+    <string name="music">音乐</string>
+    <string name="photo">图片</string>
+    <string name="local">本地</string>
+    <!--遥控器相关-->
+    <string name="the_remote_control">遥控器</string>
+    <string name="sound_settings">音效设置</string>
+    <string name="rock">摇滚</string>
+    <string name="jazz">爵士</string>
+    <string name="fashion">流行</string>
+    <string name="classics">经典</string>
+    <string name="normal">正常</string>
+    <!--更新文件相关-->
+    <string name="update_file">更新文件中，请稍后...</string>
+    <string name="access1">获取不成功？点击</string>
+    <string name="access2">&#160;此处&#160;</string>
+    <string name="access3">重新获取.</string>
+
+    <string name="please_enter_the_keywords">请输入关键字</string>
+    <string name="after_no_longer_remind">以后不再提醒</string>
+    <string name="ok">我知道了</string>
+    <string name="no_media_files">无媒体文件！</string>
+    <string name="play_collection_files">播放收藏文件</string>
+    <string name="cancel_play_collection_files">取消播放收藏文件</string>
+
+    <string name="good_morning">早上好！</string>
+    <string name="good_afternoon1">中午好！</string>
+    <string name="good_afternoon2">下午好！</string>
+    <string name="good_evening">晚上好！</string>
+    <string name="hint">点击“+”搜索设备或刷新</string>
+
+    <string name="the_current_value">当前值</string>
+    <string name="synchronous_video_collection_list_complete">同步视频收藏列表完成</string>
+    <string name="synchronous_music_collection_list_complete">同步音乐收藏列表完成</string>
+    <string name="no_collection">亲，还没有收藏哦~"</string>
+    <string name="previous">上一曲</string>
+    <string name="next">下一曲</string>
+
+    <string name="switch_u">切换至U盘</string>
+    <string name="switch_tf">切换至TF卡</string>
+    <string name="switch_device">请稍等...</string>
+    <string name="no_device">切换的设备不存在</string>
+</resources>

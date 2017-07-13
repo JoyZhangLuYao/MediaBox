@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mainclior">#E4592C</color>
+    <color name="mainclior2">#f8d398</color>
+    <color name="play_bg">#40E4592C</color>
+    <color name="linecolor">#99888889</color>
+    <color name="color_text_selected">#E4592C</color>
+    <color name="color_text_normal">#888889</color>
+    <color name="color_text_low">#cdcdcd</color>
+    <color name="color_w">#ffffff</color>
+    <!--<color name="color_w_drag">#7722ffff</color>-->
+    <color name="color_w_drag">#88f8d398</color>
+    <color name="text_color">#3E3A39</color>
+    <color name="vol_bg_color">#00000000</color>
+    <color name="lucency">#00000000</color>
+</resources>

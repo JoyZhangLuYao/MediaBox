@@ -1,0 +1,30 @@
+<resources>
+   <string name="bdp_update_request_net_error">Network error, please try again</string>
+    
+    <string name="bdp_update_info_version">Version number:</string>
+    <string name="bdp_update_info_apksize">Update packet size:</string>
+    <string name="bdp_update_info_log">Update content:</string>
+    
+    <string name="bdp_update_info_update">To update</string>
+    <string name="bdp_update_title_download">Found a new version</string>
+    <string name="bdp_update_title_install">Found a new version of the installation package</string>
+    <string name="bdp_update_title_as">Prompt</string>
+    <string name="bdp_update_download_main_tip">%1$s → %2$s / %3$s</string>
+    <string name="bdp_update_install_main_tip">%1$s → %2$s</string>
+    <string name="bdp_update_minor_tip">Update content:</string>
+    <string name="bdp_update_action_download">Upgrade immediately</string>
+    <string name="bdp_update_action_install">Immediately install</string>
+    <string name="bdp_update_not_now">Not upgrade</string>
+    <string name="bdp_update_ignore">Ignore this version</string>
+    
+    <string name="bdp_update_new_download">Found a new version, click Update</string>
+    <string name="bdp_update_download_complete">Download the new version, click Install</string>
+    
+    <string name="bdp_update_as_notify_title">Baidu mobile assistant</string>
+    <string name="bdp_update_as_notify_tip">Baidu mobile assistant</string>
+    <string name="bdp_update_as_download_complete">Baidu mobile assistant download complete</string>
+    <string name="bdp_update_as_install_tip">Recommend that you use Baidu mobile assistant to upgrade. You have not installed Baidu mobile assistant, please install.</string>
+    <string name="bdp_update_as_action_install">Install</string>
+    <string name="bdp_update_as_action_cancel">Cancel</string>
+
+</resources>

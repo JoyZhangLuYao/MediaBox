@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="false"
+    android:fitsSystemWindows="true"
+
+    android:keepScreenOn="true"
+
+    tools:context="com.zly.zly.mediabox.Ui.DeviceActivity">
+
+
+
+    <VideoView
+        android:id="@+id/vv"
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+         />
+
+
+    <TextView
+        android:id="@+id/hint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hint"
+        android:textColor="@color/color_text_low"
+        android:textSize="16dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignBottom="@+id/dvice_listview"
+        android:layout_marginBottom="20dp"/>
+
+    <ListView
+        android:id="@+id/dvice_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/vv">
+
+    </ListView>
+
+    <ImageView
+        android:id="@+id/search_device"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="15dp"
+        android:src="@mipmap/add" />
+
+    <ImageView
+        android:id="@+id/loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="350dp"
+        android:enabled="false" />
+
+    <TextView
+        android:id="@+id/loadingword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/loading"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="@string/loading"
+        android:textColor="@color/mainclior"
+        android:textSize="15dp"
+        />
+
+</RelativeLayout>

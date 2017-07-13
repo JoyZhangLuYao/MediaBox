@@ -1,0 +1,507 @@
+[
+    {
+        "outputFile": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 74,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 74,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endColumn": 73,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 73,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 62,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 62,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 64,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 64,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 100,
+                    "endOffset": 428
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 100,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 433,
+                    "endColumn": 174,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 174,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 75,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 75,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 77,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 77,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endColumn": 96,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 96,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 75,
+                    "endOffset": 930
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 75,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 935,
+                    "endColumn": 65,
+                    "endOffset": 996
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 935,
+                        "endColumn": 65,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1001,
+                    "endColumn": 71,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1001,
+                        "endColumn": 71,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 63,
+                    "endOffset": 1132
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 63,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1137,
+                    "endColumn": 60,
+                    "endOffset": 1193
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 60,
+                        "endOffset": 1193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1198,
+                    "endColumn": 67,
+                    "endOffset": 1261
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1198,
+                        "endColumn": 67,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1266,
+                    "endColumn": 67,
+                    "endOffset": 1329
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1266,
+                        "endColumn": 67,
+                        "endOffset": 1329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1334,
+                    "endColumn": 64,
+                    "endOffset": 1394
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1334,
+                        "endColumn": 64,
+                        "endOffset": 1394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1399,
+                    "endColumn": 85,
+                    "endOffset": 1480
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1399,
+                        "endColumn": 85,
+                        "endOffset": 1480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1485,
+                    "endColumn": 58,
+                    "endOffset": 1539
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1485,
+                        "endColumn": 58,
+                        "endOffset": 1539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1544,
+                    "endColumn": 88,
+                    "endOffset": 1628
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1544,
+                        "endColumn": 88,
+                        "endOffset": 1628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1633,
+                    "endColumn": 54,
+                    "endOffset": 1683
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1633,
+                        "endColumn": 54,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1688,
+                    "endColumn": 73,
+                    "endOffset": 1757
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 73,
+                        "endOffset": 1757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1762,
+                    "endColumn": 100,
+                    "endOffset": 1858
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1762,
+                        "endColumn": 100,
+                        "endOffset": 1858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1863,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 2487
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1863,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 2487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2492,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2652
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2492,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2657,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2967
+                },
+                "from": {
+                    "file": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2657,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 2967
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_big"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="40dp"
+    android:background="#90000000"
+    android:gravity="center"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/radiusbottom"
+        >
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:textColor="#E4592C"
+            android:gravity="center"
+            android:text="@string/bdp_update_title_download"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="#bebec1"
+            />
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            >
+        <TextView
+            android:id="@+id/tv_info"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:textColor="#E4592C"
+            android:padding="15dp"
+            />
+        </ScrollView>
+<!--        <ImageView -->
+<!--            android:id="@+id/iv_bg" -->
+<!--            android:layout_width="wrap_content" -->
+<!--            android:layout_height="wrap_content" -->
+<!--            android:src="@drawable/default_bg" -->
+<!--            android:scaleType="centerInside" -->
+<!--            android:adjustViewBounds="true" -->
+<!--            android:layout_margin="8dp" -->
+<!--            /> -->
+<!--         <EditText -->
+<!--             android:id="@+id/et_name" -->
+<!--             android:layout_width="match_parent" -->
+<!--             android:layout_height="40dp" -->
+<!--             android:gravity="center" -->
+<!--             android:background="@null" -->
+<!--             android:hint="@string/name" -->
+<!--             /> -->
+			<View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="#bebec1"
+            />
+			
+			<LinearLayout
+			    android:id="@+id/ll_pb"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:padding="15dp"
+			    android:orientation="vertical"
+			    android:visibility="gone"
+			    >
+        	<TextView
+        	    android:id="@+id/tv_progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#E4592C"
+            />
+<!--         	     android:indeterminateDrawable="@drawable/baidu_seek_bg" -->
+<!--         	     android:background="@drawable/radius_progressbar_bg" -->
+<!--         	     android:progressDrawable="@drawable/progress_horizontal1" -->
+        	<ProgressBar
+        	    android:id="@+id/pb_load"
+        	    android:layout_width="match_parent"
+        	    android:layout_height="12dp"
+        	    android:indeterminate="false" 
+            	android:indeterminateOnly="false" 
+            	style="?android:attr/progressBarStyleHorizontal"
+        		android:progressDrawable="@drawable/progressbar_color"
+        	    />
+			    
+			</LinearLayout>
+			<LinearLayout
+			    android:id="@+id/ll_bt"
+			    android:layout_width="match_parent"
+			    android:layout_height="40dp"
+			    android:orientation="horizontal"
+			    >
+				<TextView
+				    android:id="@+id/tv_cancel"
+				    android:layout_width="match_parent"
+				    android:layout_height="match_parent"
+				    android:layout_weight="1"
+				    android:text="@string/bdp_update_not_now"
+				    android:gravity="center"
+				    android:textColor="#E4592C"
+				    />
+				<View
+            	android:layout_width="0.5dp"
+            	android:layout_height="match_parent"
+            	android:background="#bebec1"
+            	/>
+			    <TextView
+			        android:id="@+id/tv_ensure"
+			        android:layout_width="match_parent"
+			        android:layout_height="match_parent"
+			        android:layout_weight="1"
+				    android:gravity="center"
+				    android:textColor="#E4592C"
+			        android:text="@string/bdp_update_action_download"
+			        />
+    		</LinearLayout>
+    </LinearLayout>
+    
+<!--     <TextView -->
+<!--         android:id="@+id/tv_ensure" -->
+<!--         android:layout_width="match_parent" -->
+<!--         android:layout_height="40dp" -->
+<!--         android:background="@drawable/radiusbottom" -->
+<!--         android:textColor="#077dff" -->
+<!--         android:gravity="center" -->
+<!--         android:layout_marginTop="20dp" -->
+<!--         android:text="@string/ensure" -->
+<!--         /> -->
+
+</LinearLayout>
+

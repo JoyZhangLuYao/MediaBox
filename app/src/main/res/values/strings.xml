@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">MediaBox</string>
+
+    <string name="nfc1">&#8195;Detect your phone supports NCF, can use mobile NFC induction area for equipment connection near the equipment.</string>
+    <string name="nfc2">&#8195;Detect your phone support NCF, please open the NFC, and cell phone near the NFC active area of the equipment for equipment connection.</string>
+    <string name="hello">hello！</string>
+    <string name="loading">In processing, please later...</string>
+    <string name="my_collection">My collection</string>
+    <string name="edit">Edit</string>
+    <string name="complete">complete</string>
+    <string name="local_music">Local music</string>
+    <string name="memory_card">Memory card</string>
+    <string name="usb_flash_disk">USB flash disk</string>
+    <string name="video">video</string>
+    <string name="music">music</string>
+    <string name="photo">picture</string>
+    <string name="local">local</string>
+    <!--遥控器相关-->
+    <string name="the_remote_control">The remote control</string>
+    <string name="sound_settings">Sound Settings</string>
+    <string name="rock">rock</string>
+    <string name="jazz">jazz</string>
+    <string name="fashion">fashion</string>
+    <string name="classics">classics</string>
+    <string name="normal">normal</string>
+    <!--更新文件相关-->
+    <string name="update_file">Update file, please later...</string>
+    <string name="access1">Not successful?Click</string>
+    <string name="access2"> here </string>
+    <string name="access3">to obtain.</string>
+
+    <string name="please_enter_the_keywords">Please enter the keywords.</string>
+    <string name="after_no_longer_remind">After no longer remind</string>
+    <string name="ok">OK</string>
+    <string name="no_media_files">No media files!</string>The current value
+    <string name="play_collection_files">Play collection files</string>
+    <string name="cancel_play_collection_files">Cancel play collection files</string>
+
+    <string name="good_morning">Good morning&#8195;</string>
+    <string name="good_afternoon1">Good afternoon&#8195;</string>
+    <string name="good_afternoon2">Good afternoon&#8195;</string>
+    <string name="good_evening">Good evening&#8195;</string>
+    <string name="hint">Click on the "+" search device or refresh.</string>
+
+    <string name="the_current_value">The current value</string>
+    <string name="synchronous_video_collection_list_complete">Synchronous video collection list complete</string>
+    <string name="synchronous_music_collection_list_complete">Synchronous music collection list complete</string>
+    <string name="no_collection">Oh,Dear! no collection~</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+
+    <string name="switch_u">switch to USB flash disk</string>
+    <string name="switch_tf">switch to TF card</string>
+    <string name="switch_device">please later...</string>
+    <string name="no_device">The switching device does not exist</string>
+
+
+</resources>

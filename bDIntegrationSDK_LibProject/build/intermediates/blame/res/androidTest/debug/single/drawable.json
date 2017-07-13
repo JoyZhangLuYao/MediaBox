@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bdp_update_bg_dialog_content.xml",
+        "source": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\drawable\\bdp_update_bg_dialog_content.xml"
+    },
+    {
+        "merged": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bdp_update_bg_dialog_title.xml",
+        "source": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\drawable\\bdp_update_bg_dialog_title.xml"
+    },
+    {
+        "merged": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bdp_update_progress_download.xml",
+        "source": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\drawable\\bdp_update_progress_download.xml"
+    },
+    {
+        "merged": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bdp_update_bg_dialog_btn.xml",
+        "source": "E:\\QinQi\\MediaBox\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\drawable\\bdp_update_bg_dialog_btn.xml"
+    }
+]
